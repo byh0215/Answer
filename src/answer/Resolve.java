@@ -26,7 +26,7 @@ public class Resolve {
 		        // TODO Auto-generated method stub  
 		        Scanner s = new Scanner(System.in);  
 		        String str =s.next();
-                 //test:3 abccbaabc
+                 //test:4 abcqwertyuijkl
 		        System.out.println(lengthOfLongestSubstring(str));  
 		    }  
 }
